@@ -27,9 +27,7 @@ public abstract class Bird {
 	
 	
 	public abstract void sing();
-    
-    public abstract void fly();
-    
-    public abstract void showName();
+	public abstract void fly();
+	public abstract void showName();
 
 }
